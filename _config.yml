@@ -8,12 +8,12 @@ subtitle:
 description:
 keywords:
 author: Paul Nichol
-language:
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://enichol.github.io/bnsotd/
+url: http://bnsotd.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,8 +73,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: typography
-themeStyle: light
+theme: cactus
+themeStyle: classic
 
 # Generate archive page
 archive_generator:
@@ -103,7 +103,8 @@ feed:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-    type: git 
-    repo: https://github.com/enichol/bnsotd.git
-    branch: master
-    message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
+  type: s3
+  bucket: bnsotd.com
+  aws_cli_profile: default
+  headers: {CacheControl: 'max-age=604800, public'} 
+  delete_removed: true
