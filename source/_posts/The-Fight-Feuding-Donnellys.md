@@ -4,6 +4,6 @@ date: 2016-10-20 09:57:52
 tags:
 ---
 
-It's your funeral vol. Something. Can't remember which number: The Fightin' Fuedin' Donnellys - Some guy
+Here’s a bit of Canadiana for you – in fact local Mid-western Ontario Canadiana. This one goes out as a nod to that notorious band of ne’r do well outlaws from Deemerton – the Fightin’ Feudin’ Niesens!
 
 {% aplayer "Fight Feudin Donnellys" "Earl Heywood" "The-Fightin-Fuedin-Donnellys_Earl-Heywood.mp3"%}
