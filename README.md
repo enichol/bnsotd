@@ -15,7 +15,7 @@
 4. Navigate to http://localhost:4000 in your browser
 
 ## To generate a new post:
-1. `hexo new _[title]_
+1. `hexo new _[title]_`
 2. Edit  /source/\_posts/_[title]_.md (copy an existing post as a template)
 3. Dump the audio file in /source/_posts/_title_
 4. `hexo generate` and `hexo server` again to see changes
