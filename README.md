@@ -5,6 +5,8 @@
 1. install [hexo](https://hexo.io/docs/index.html)
 2. install [git](https://git-scm.com/downloads)
 3. pull [repo](https://github.com/enichol/bnsotd.git)
+4. cd into /bnsotd/ repo
+5. pull forked theme: `git clone https://github.com/enichol/hexo-theme-cactus.git themes/cactus`
 
 
 ## to run locally:
