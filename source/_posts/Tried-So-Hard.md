@@ -1,7 +1,7 @@
 ---
 title: Tried So Hard
 date: 2016-10-27 9:15:20
-tags:
+tags: Flying Burrito Brothers
 ---
 
 Here’s a tasty little morsel of folk/rock/country – my most favourite genre. You will not likely know it, but it should appeal to the senses nevertheless.

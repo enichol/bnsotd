@@ -1,7 +1,7 @@
 ---
 title: Poor Side Of Town
 date: 2016-10-25 09:15:34
-tags:
+tags: Johnny Rivers
 ---
 
 This next one supports my strong conviction that no song is complete without a chorus of ample “shoop-doo-doo-wah-shooby-doobies”
