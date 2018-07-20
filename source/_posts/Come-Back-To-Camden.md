@@ -1,11 +1,11 @@
 ---
-title: Come-Back-To-Camden
+title: Come Back To Camden
 date: 2017-01-13 9:37:22
 tags: Morrissey, The Smiths
 ---
 In the words of the great Jim Niesen, this one should gob-smack you! Pay attention to the pitch perfect falsetto at the end. Say what you want – Michael Buble can’t come close to this, never mind most of the contestants on American Idol. For the record, Morrissey is crooning for a departed gay lover, which just goes to show that Big Nick is also LGBT friendly.
 
-!{Morrissey}(Morrissey.jpg)
+![Morrissey](Morrissey.jpg)
 
 Have a great weekend everyone.
 
