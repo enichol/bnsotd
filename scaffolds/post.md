@@ -1,7 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+tags: 
+- <Artist Name>
+- <Co-host>
 ---
 <BODY>
 
