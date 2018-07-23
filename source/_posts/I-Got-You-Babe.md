@@ -6,6 +6,5 @@ tags:
 - The Sethnick
 ---
 <BODY>
-![PINGAS](download.jpg)
 
 {% aplayer "I Got You Babe" "Bahamas" "I-Got-You-Babe_Bahamas.mp3"%}
