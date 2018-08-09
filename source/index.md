@@ -6,12 +6,12 @@ photos:
 - /Big-Nick2.jpg
 - /Big-Nick3.jpg
 ---
-
-> Music gives a soul to the universe, 
-> wings to the mind, 
-> flight to the imagination, 
-> and life to everything.
-_~ Plato ~_
+{% blockquote Plato %}
+Music gives a soul to the universe, 
+wings to the mind, 
+flight to the imagination, 
+and life to everything.
+{% endblockquote %}
 
 ---
 
