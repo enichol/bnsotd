@@ -1,5 +1,5 @@
 ---
-title: Dreams 2-pac
+title: Dreams -- Two-Fer
 date: 2016-11-02 12:15:48
 tags: The Allman Brothers, Willie Nelson
 ---
